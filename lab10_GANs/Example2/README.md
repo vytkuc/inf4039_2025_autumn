@@ -1,0 +1,1 @@
+An introduction to generative adversarial network using the MNIST dataset. 
